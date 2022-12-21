@@ -1,0 +1,4 @@
+text: "Heng Li studies advanced computational algorithms to solve practical biological problems, currently with a focus on sequence alignment, variant calling, de novo assembly, data storage, and information query. He developed and maintains several widely used software packages, such as BWA, samtools, minimap2, and seqtk, for analyzing high-throughput sequencing data. He has also collaborated with multiple research groups and published work on the analysis of single-cell sequence data, chromosome conformation, cancer genomics, population genetics and species evolution. https://hlilab.github.io/"
+name: "Heng Li"
+position: "Associate Professor, Dana-Farber Cancer Institute and Harvard Medical School"
+avatar: "img/speakers/heng_li.jpg"

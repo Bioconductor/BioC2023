@@ -1,4 +1,6 @@
-text: "Jane Smith is a professor . http://homepage and  https://twitter."
-name: "Jane Smith, Keynote: \"Title\""
-position: "Professor, University"
-avatar: "img/speakers/avatar.png"
+text: "JJ is software engineer and entrepreneur who builds tools that empower people with technology. JJ has conceived and designed several industry leading products by balancing market, customer, and technical considerations, and by maintaining intimate involvement in all aspects of software design and construction. He is currently the founder and CEO of statistical computing company RStudio. https://github.com/jjallaire https://mobile.twitter.com/fly_upside_down"
+name: "JJ. Allaire"
+position: "Founder and CEO, RStudio"
+avatar: "img/speakers/jj_allaire.jpg"
+
+
