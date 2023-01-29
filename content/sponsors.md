@@ -196,6 +196,7 @@ Three levels of sponsorship are available. Sponsors of all levels may present a 
 
 ## Approximate conference demographics
 
+<!--
 - Bioc2021 was virtual and was attended by 500+ participants from the global Bioconductor bioinformatics community. 
 
 - Academic (50%), corporate (e.g., pharmaceutical; 30%);
@@ -212,4 +213,12 @@ Three levels of sponsorship are available. Sponsors of all levels may present a 
   bespoke solutions.
   
 -  Bioconductor is dedicated to providing a supportive, collegial, and harassment-free conference experience for everyone and this is detailed in our conference [code of conduct](https://bioc2022.bioconductor.org/code/). 
- 
+-->
+
+- Bioc2022 was hybrid and was attended by 92 people in person and 328 virtual participants from the global Bioconductor bioinformatics community.
+
+- Faculty (15%), staff (20%), government (1%), and corporate (12%); postdocs (19%) and students (30%)
+
+- Thought leaders contributing to leading-edge methodological development, hands-on practitioners incorporating R / Bioconductor into robust work flows, and researchers developing bespoke solutions.
+
+- Bioconductor is dedicated to providing a supportive, collegial, and harassment-free conference experience for everyone and this is detailed in our conference [code of conduct](/code).
