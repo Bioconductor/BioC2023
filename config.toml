@@ -61,7 +61,7 @@ paginate = 50
 
 [[menu.main]]
     identifier="submissions"
-    parent = "about"
+    # parent = "about"
     name = "Submissions"
     url  = "/submissions/"
     weight = 30

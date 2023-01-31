@@ -3,12 +3,11 @@ title = "Submissions"
 description = "Submissions"
 +++
 
-### Coming soon
+## Important Dates
 
-<!--
-**Important Dates**
-* January 22, 2022: Call for abstracts opens
-* March 29, 2022: Call for abstracts closes at 11:59 pm Pacific time 
+* February 3, 2023: Call for abstracts opens
+
+<!--* March 29, 2022: Call for abstracts closes at 11:59 pm Pacific time 
 * Registration will open soon
 * April 29, 2022: Notification of decision
 * July 27-29, 2022: The BioC2022 conference
@@ -18,7 +17,7 @@ description = "Submissions"
 * Abstract submission is now closed. All submissions are currently under review.
 * April 16, 2021: Notification of decision
 * Registration will open soon
-* August 4-6, 2021: BioC2021
+* August 4-6, 2021: BioC2021-->
 
 ## Submission types
 
@@ -38,4 +37,3 @@ Poster presenters are encouraged to submit their poster to the [Bioconductor Bio
 
 ### Birds-of-a-feather session
 Free-format, organizer-lead interactive discussion session on a topic relevant to the Bioconductor community. 
--->
