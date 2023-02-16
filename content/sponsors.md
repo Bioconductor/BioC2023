@@ -151,10 +151,12 @@ description = "Sponsors"
 ## Sponsor Opportunities
 Bioconductor is a non-profit organization that supports one of the most widely used data analysis tools in genomics. Bioconductor packages were downloaded by [over 1 million distinct IPs](http://www.bioconductor.org/packages/stats/bioc/index.html) in 2022. Software packages are contributed by more than 1,200 community developers worldwide.  
 
-The conference is unique in that in addition to talks and poster session, the meeting features 20+ workshops which provide hands-on learning about Bioconductor packages. All conference materials (videos, slides, talks, posters, workshops) are published online such that the conference provides a rich resource for learning Bioconductor. 
+Our annual conference will bring together Bioconductor developers and users from academia, industry, and government to network and discuss the latest development in computational biology. The conference is unique in that in addition to talks and poster session, the meeting features 20+ workshops which provide hands-on learning about Bioconductor packages. All conference materials (videos, slides, talks, posters, workshops) are published online such that the conference provides a rich resource for learning Bioconductor. 
 
 
 > Interested in sponsoring this conference? Please contact <sponsorship@bioconductor.org>
+
+Sponsorship will increase your opportunities for networking with potential employees and colleagues in data science and bioinformatics who attend the conference or follow our social media accounts. 
 
 **Your sponsorship will help increase diversity and representation at Bioconductor 2023** by:
 
@@ -166,31 +168,34 @@ The conference is unique in that in addition to talks and poster session, the me
 
 Three levels of sponsorship are available. Sponsors of all levels may present a poster highlighting the scientific interests of their organization in the poster sessions.
 
-**Platinum: $10,000 USD**
+**Platinum: $15,000 USD**
 
-- Poster session will be named after these donors. 
-- Highest recognition, using your logo, in the online and print promotional and scheduling material. 
-- Up to 8 free registrations.
-- A thank-you tweet including your preferred Twitter handle. 
+- Highest recognition, using your logo on the website and in all promotional and scheduling material. 
+- Up to 8 free registrations (2 in-person and 6 virtual).
+- Platinum-level promotion of your company on our social media platforms leading up to and during the conference. 
 - A virtual booth on the conference platform with the ability to set up live Q&A times and one-on-one meetings with attendees.
-- A virtual table during the poster session and social hours*
+- A live table during the poster session.
+- You can choose to sponsor a poster session, a career event, a social and networking event, catering, online outreach or support diversity and inclusion by funding travel scholarships.
+- Invitation to speakers dinner for the 2 in-person attendees.
 
 
-**Gold: $5,000 USD**
+**Gold: $7,500 USD**
 
-- Top recognition, using your logo, in the online and print conference promotional and scheduling material. 
-- Up to 5 free registrations. 
-- A thank-you tweet including your preferred Twitter handle. 
+- Top recognition, using your logo on the website and in all promotional and scheduling material. 
+- Up to 5 free registrations (1 in-person and 4 virtual). 
+- Gold-level promotion of your company on our social media platforms leading up to and during the conference. 
 - A virtual booth on the conference platform with the ability to set up live Q&A times and one-on-one meetings with attendees.
-- A virtual table during the poster session and social hours*
+- A live table during the poster session.
 
-**Silver: $1,000 USD**
 
-- Sponsor names will be listed in the online and print promotional and scheduling material.
-- Academic discount on 2 registrations.
+**Silver: $2,000 USD**
+
+- Sponsor names using your logo on the website and in all promotional and scheduling material.  
+- Academic instead of industry fee for 2 in-person registrations, or 2 free virtual registrations.
 - A thank-you tweet including your preferred Twitter handle.
 
-* Bioconductor will follow local and state guidelines and will only host in-person events if it is safe to do so. 
+
+Bioconductor will follow local and state guidelines and will only host in-person events if it is safe to do so. 
 
 ***
 
