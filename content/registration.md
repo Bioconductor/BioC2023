@@ -5,6 +5,47 @@ description = "Registration"
 
 ### Coming soon
 
+<!-- https://docs.google.com/document/d/1KtlgpudVJYaE_M7mDHZJc1CDwywnvRYKhhYUD5vt8fE/edit -->
+<!--
+The conference will be held at the Dana-Farber Cancer Institute in Boston, MA from August 2nd through August 4th. The conference will be hybrid so you can attend in-person or virtually.
+
+**Ticket types (in USD):**
+
+In Person Registration:
+
+- Early registration (through May 31, 2023): 
+- In-Person Student or Postdoc, $175
+- In-Person Faculty, Staff and Government, $300
+- In-Person Industry, $500 
+
+Registration (June 1-July 19, 2023)
+
+- In-Person Student or Postdoc, $250
+- In-Person Faculty, Staff and Government, $400
+- In-Person Industry, $600
+
+Virtual registration:
+
+- Virtual Student or Postdoc, $10
+- Virtual Faculty, Staff, and Government, $50
+- Virtual Industry $75
+
+**Tickets for in-person attendance include** access to all in-person sessions and events; access to the virtual platform to view recordings and participate in online networking; breakfast and lunch will be provided all three days.
+
+**Tickets for virtual attendance include** access to the virtual platform to attend live sessions and view the recordings of other sessions. Online networking capabilities with other attendees and sponsors.
+
+Tickets are refundable with 10% service fee. The deadline for in-person ticket refunds is Friday June 20, 2023 at 5pm ET. Refunds for virtual attendance tickets is Friday July 28th, 2023 at 5:00pm ET. 
+
+**We remain committed to providing as much assistance as we can to keep registration fees from being a barrier to conference attendance. If you require scholarship assistance to attend the conference, please complete [this form](https://app.smartsheet.com/b/form/442ae4826a7f42338831c1e7f24f1a32).**
+
+- Scholarships for in-person attendance will be reviewed and decided upon on May 31st.
+- If you are not selected for an in-person  scholarship, you will be given a complimentary virtual registration, or you will have the chance to register for the conference at early registration rates. 
+- Scholarships for virtual attendance will be given on a rolling basis, ending July 28th.
+-->
+
+
+
+
 <!--
 ### Registration is now open for the BioC22 conference. You have two ticket options:
 
