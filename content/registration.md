@@ -7,7 +7,9 @@ description = "Registration"
 
 <!-- https://docs.google.com/document/d/1KtlgpudVJYaE_M7mDHZJc1CDwywnvRYKhhYUD5vt8fE/edit -->
 
-**[Register here](https://hopin.com/events/bioc2023)**, or copy-paste this link in your web browser, https://hopin.com/events/bioc2023
+**[Register here](https://hopin.com/events/bioc2023)**, or copy-paste this link in your web browser, https://hopin.com/events/bioc2023. 
+
+**[Scholarship information](#scholarship)**
 
 The conference will be held at the Dana-Farber Cancer Institute in Boston, MA from August 2nd through August 4th. The conference will be hybrid so you can attend in-person or virtually.
 
@@ -37,6 +39,8 @@ Virtual registration:
 **Tickets for virtual attendance include** access to the virtual platform to attend live sessions and view the recordings of other sessions. Online networking capabilities with other attendees and sponsors.
 
 Tickets are refundable with 10% service fee. The deadline for in-person ticket refunds is Friday June 20, 2023 at 5pm ET. Refunds for virtual attendance tickets is Friday July 28th, 2023 at 5:00pm ET. 
+
+### Scholarship
 
 **We remain committed to providing as much assistance as we can to keep registration fees from being a barrier to conference attendance. If you require scholarship assistance to attend the conference, please complete [this form](https://app.smartsheet.com/b/form/442ae4826a7f42338831c1e7f24f1a32).**
 
