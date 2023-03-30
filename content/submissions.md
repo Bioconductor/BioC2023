@@ -3,14 +3,15 @@ title = "Submissions"
 description = "Submissions"
 +++
 
-# [Submission is open. Click here to submit.](https://openreview.net/group?id=bioconductor.org/BioC/2023/Conference)
+<!--# [Submission is open. Click here to submit.](https://openreview.net/group?id=bioconductor.org/BioC/2023/Conference)-->
 
 ## Important Dates
 
 * February 3, 2023: Call for abstracts opens
 * March 19, 2023: Call for abstracts closes at 11:59 pm Eastern time 
-* Registration will open soon
-* August, 2023: The BioC2023 conference
+* April 14, 2023: Notification of abstract decision
+* Registration is open. [Register here](../registration)
+* August 2-4, 2023: The BioC2023 conference
 <!--* April 29, 2022: Notification of decision-->
 
 <!--* January 22, 2021: Call for abstracts opens
