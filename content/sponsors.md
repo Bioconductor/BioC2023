@@ -5,8 +5,9 @@ description = "Sponsors"
 
 <!--
 # Hide headings until have logos to add
-{{< sponsors >}}
 -->
+{{< sponsors >}}
+
 
 <!--
 |       |
