@@ -59,11 +59,6 @@ Current students and trainees. Priority is given to those who:
 
 Conference registration, student housing accommodation for the travel dates (max of 4 nights) and up to a $1000 USD stipend for travel costs (domestic) and $1500 (international).
 
-Change this sentence: 
-Scholarships for in-person attendance will be reviewed and decided upon on May 31st.
-TO
-Scholarships for in-person attendance will close on May 31st and notifications will go out in early June.
-
 
 <!--
 ### Registration is now open for the BioC22 conference. You have two ticket options:
