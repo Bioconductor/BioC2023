@@ -11,7 +11,6 @@ Please note these are patient buildings so COVID protocols are in place to prote
 
 ### Hotels
 
-Conference hotel TBA  
 The Inn at Longwood Medical $$  
 Hilton Garden Inn Boston Brookline $$  
 Homewood Suites by Hilton Longwood Area $$  
