@@ -44,11 +44,25 @@ Tickets are refundable with 10% service fee. The deadline for in-person ticket r
 
 **We remain committed to providing as much assistance as we can to keep registration fees from being a barrier to conference attendance. If you require scholarship assistance to attend the conference, please complete [this form](https://app.smartsheet.com/b/form/442ae4826a7f42338831c1e7f24f1a32).**
 
-- Scholarships for in-person attendance will be reviewed and decided upon on May 31st.
+- Scholarships for in-person attendance will close on May 31st and notifications will go out in early June.
 - If you are not selected for an in-person  scholarship, you will be given a complimentary virtual registration, or you will have the chance to register for the conference at early registration rates. 
 - Scholarships for virtual attendance will be given on a rolling basis, ending July 28th.
 
+#### Who qualifies?
 
+Current students and trainees. Priority is given to those who:
+
+- had an abstract selected for the conference
+- are from low-and middle-income countries
+
+#### What is included in the scholarship?
+
+Conference registration, student housing accommodation for the travel dates (max of 4 nights) and up to a $1000 USD stipend for travel costs (domestic) and $1500 (international).
+
+Change this sentence: 
+Scholarships for in-person attendance will be reviewed and decided upon on May 31st.
+TO
+Scholarships for in-person attendance will close on May 31st and notifications will go out in early June.
 
 
 <!--
