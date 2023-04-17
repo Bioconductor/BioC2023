@@ -177,6 +177,10 @@ Three levels of sponsorship are available. Sponsors of all levels may present a 
 - Highest recognition, using your logo on the website and in all promotional and scheduling material. 
 - Up to 8 free registrations (2 in-person and 6 virtual).
 - Platinum-level promotion of your company on our social media platforms leading up to and during the conference. 
+    - Sponsors can provide a 15 sec video to be shown to all attendees at the 
+      conference at the beginning of a session, and which will be posted on 
+      Bioconductor YouTube (4.7k followers) and Twitter (9.5k followers). 
+    - 1 Tweet per month (May, June, July) up to and during conference. 
 - A virtual booth on the conference platform with the ability to set up live Q&A times and one-on-one meetings with attendees.
 - A live table during the poster session.
 - You can choose to sponsor a poster session, a career event, a social and networking event, catering, online outreach or support diversity and inclusion by funding travel scholarships.
@@ -188,6 +192,7 @@ Three levels of sponsorship are available. Sponsors of all levels may present a 
 - Top recognition, using your logo on the website and in all promotional and scheduling material. 
 - Up to 5 free registrations (1 in-person and 4 virtual). 
 - Gold-level promotion of your company on our social media platforms leading up to and during the conference. 
+    - 1 Tweet per month (May, June, July) up to and during conference. 
 - A virtual booth on the conference platform with the ability to set up live Q&A times and one-on-one meetings with attendees.
 - A live table during the poster session.
 
