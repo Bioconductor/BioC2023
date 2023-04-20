@@ -229,7 +229,9 @@ Bioconductor will follow local and state guidelines and will only host in-person
 -  Bioconductor is dedicated to providing a supportive, collegial, and harassment-free conference experience for everyone and this is detailed in our conference [code of conduct](https://bioc2022.bioconductor.org/code/). 
 -->
 
-- [BioC2022](https://bioc2022.bioconductor.org/) was hybrid and was attended by 92 people in person and 328 virtual participants from the global Bioconductor bioinformatics community.
+- Over 500 participants from the global Bioconductor bioinformatics community attended each of the past three BioC conferences in 2022, 2021, and 2020 on average.  
+
+- [BioC2022](https://bioc2022.bioconductor.org/) was able to allow a limited number (~100) of in-person attendees due to covid restrictions, as well as ~350 virtual participants. A summary of BioC2022 demographics is given below.
 
 - Faculty (15%), staff (20%), government (1%), and corporate (12%); postdocs (19%) and students (30%)
 
