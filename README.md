@@ -1,6 +1,8 @@
 
 # Bioconductor conference 2023 website
 
+Website site: https://bioc2023.bioconductor.org/
+
 This repository contains material for the Bioconductor annual conference. 
 View <!--the example at https://bioc2022.bioconductor.org/ and--> the corresponding
 [GitHub repo](https://github.com/Bioconductor/BioC2023). Created using [BioC_template](https://github.com/Bioconductor/BioC_template).
