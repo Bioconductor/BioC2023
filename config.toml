@@ -29,11 +29,11 @@ paginate = 50
     url  = "/information/"
     weight = 20
 
-# [[menu.main]]
-#   identifier="schedule"
-#   name = "Schedule"
-#   url  = "/schedule/"
-#   weight = 20
+ [[menu.main]]
+   identifier="schedule"
+   name = "Schedule"
+   url  = "/schedule/"
+   weight = 20
 
 # [[menu.main]]
 #    identifier="Workshops"

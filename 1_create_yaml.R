@@ -10,7 +10,7 @@ library(stringr)
 #discard_lgl <- vapply(schedule, function(x) all(is.na(x)), logical(1))
 #schedule <- schedule[,!discard_lgl]
 
-url <- 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTK3h9TuCu3k8xwjBGO5eviKEnv7IzxULRGG1V5K2vKkzMxUUHVLMRiwqcezO_NrBB8kX78QVXk4F7P/pub?gid=0&single=true&output=csv'
+url <- 'https://docs.google.com/spreadsheets/d/1tGtGffcbCRxQFjE3ej42IcWlN4FJCsuQeZvETt9g0oA/gviz/tq?tqx=out:csv&sheet=2023'
 fname <- tempfile()
 download.file(url = url, destfile = fname, quiet = TRUE)
 schedule <- read.csv(fname)
