@@ -1,14 +1,35 @@
 
 library(stringr)
 
-gsheet <- 'https://docs.google.com/spreadsheets/d/1tGtGffcbCRxQFjE3ej42IcWlN4FJCsuQeZvETt9g0oA/gviz/tq?tqx=out:csv&sheet=schedule_table'
-fname <- tempfile()
-download.file(url = gsheet, destfile = fname, quiet = TRUE)
-schedule <- read.csv(fname)
+#gsheet <- 'https://docs.google.com/spreadsheets/d/1tGtGffcbCRxQFjE3ej42IcWlN4FJCsuQeZvETt9g0oA/gviz/tq?tqx=out:csv&sheet=schedule_table'
+#fname <- tempfile()
+#download.file(url = gsheet, destfile = fname, quiet = TRUE)
+#schedule <- read.csv(fname)
 ## For some reason there are several extra columns with just NAs.
 ## We can remove those columns with a vector (discard_lgl)
-discard_lgl <- vapply(schedule, function(x) all(is.na(x)), logical(1))
-schedule <- schedule[,!discard_lgl]
+#discard_lgl <- vapply(schedule, function(x) all(is.na(x)), logical(1))
+#schedule <- schedule[,!discard_lgl]
+
+url <- 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTK3h9TuCu3k8xwjBGO5eviKEnv7IzxULRGG1V5K2vKkzMxUUHVLMRiwqcezO_NrBB8kX78QVXk4F7P/pub?gid=0&single=true&output=csv'
+fname <- tempfile()
+download.file(url = url, destfile = fname, quiet = TRUE)
+schedule <- read.csv(fname)
+
+select_cols <- c(
+    'day',
+    'title', 'paper', 'session_type', 'authors', 'affiliation', 'abstract',
+    'time', 'twitter', 'talks'
+)
+x <- schedule[, select_cols, drop = FALSE]
+x$presenting_author <- sub(',.*$', '', x$authors)
+x$github <- ''
+x$youtube <- ''
+x$paper <- tolower(x$paper)
+x$abstract <- gsub('"', "'", x$abstract)
+x <- x[which(x$session_type != ''),]
+x$twitter <- sub('^@', '', x$twitter)
+x$twitter <- sub('http:.*', '', x$twitter)
+schedule <- x
 
 output_dir <- 'data/abstracts/'
 message('Creating yaml files in ', output_dir)
