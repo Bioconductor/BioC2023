@@ -80,6 +80,12 @@
                 {{ else }}
                 <a href="https://twitter.com/{{ .twitter4 }}" target="_blank">{{ .presenting_author4 }}</a><br>
                 {{ end }}
+
+                {{ if eq .twitter5 "" }}
+                {{ .presenting_author5 }}<br>
+                {{ else }}
+                <a href="https://twitter.com/{{ .twitter5 }}" target="_blank">{{ .presenting_author5 }}</a><br>
+                {{ end }}
             </td>
 
             {{ if eq .paper "" }}
@@ -111,6 +117,12 @@
             {{ .youtube4 }}<br>
             {{ else }}
             <a href="{{ .youtube4 }}" target="_blank"><i class="fab fa-youtube" ></i></a><br>
+            {{ end }}
+
+            {{ if eq .youtube5 "" }}
+            {{ .youtube5 }}<br>
+            {{ else }}
+            <a href="{{ .youtube5 }}" target="_blank"><i class="fab fa-youtube" ></i></a><br>
             {{ end }}
             </td>
 
