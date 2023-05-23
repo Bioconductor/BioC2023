@@ -1,5 +1,5 @@
 ---
-title: "Mariner: Explore the Hi-Cs"
+title: "Mariner: Explore the Hi-Cs**"
 tags: ["Workshop"]
 type: "blog"
 draft: false

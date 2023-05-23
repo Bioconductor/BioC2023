@@ -1,5 +1,5 @@
 ---
-title: "Voyager: Exploratory spatial data analysis from geospatial to spatial -omics"
+title: "Voyager: Exploratory spatial data analysis from geospatial to spatial -omics***"
 tags: ["Workshop"]
 type: "blog"
 draft: false
