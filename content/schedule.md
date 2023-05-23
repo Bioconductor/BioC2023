@@ -4,9 +4,9 @@ description = "Schedule"
 +++
 
 
-{{< schedule date="Wednesday, July 27, 2022" day="day1">}}
-{{< schedule date="Thursday, July 28, 2022" day="day2">}}
-{{< schedule date="Friday, July 29, 2022" day="day3">}}
+{{< schedule date="Wednesday, August 2, 2023" day="day1">}}
+{{< schedule date="Thursday, August 3, 2023" day="day2">}}
+{{< schedule date="Friday, August 4, 2023" day="day3">}}
 
 <!--
 + [All short talks](../tags/short-talk/)
