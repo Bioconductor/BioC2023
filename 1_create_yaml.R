@@ -20,9 +20,10 @@ select_cols <- c(
     'title', 'paper', 'session_type', 'authors', 'affiliation', 'abstract',
     'time', 'talks',
     'github',
-    'presenting_author', 'presenting_author2', 'presenting_author3', 'presenting_author4',
-    'twitter', 'twitter2', 'twitter3', 'twitter4',
-    'youtube', 'youtube2', 'youtube3', 'youtube4'
+    'presenting_author', 'presenting_author2', 'presenting_author3', 'presenting_author4', 'presenting_author5',
+    'twitter', 'twitter2', 'twitter3', 'twitter4', 'twitter5',
+    'youtube', 'youtube2', 'youtube3', 'youtube4', 'youtube5',
+    'details'
 )
 x <- schedule[, select_cols, drop = FALSE]
 #x$presenting_author <- sub(',.*$', '', x$authors)
@@ -33,16 +34,19 @@ x$abstract <- gsub('"', "'", x$abstract)
 x <- x[which(x$session_type != ''),]
 
 x$github <- ifelse(is.na(x$github), '', x$github)
+x$details <- ifelse(is.na(x$details), '', x$details)
 
 x$presenting_author <- ifelse(is.na(x$presenting_author), '', x$presenting_author)
 x$presenting_author2 <- ifelse(is.na(x$presenting_author2), '', x$presenting_author2)
 x$presenting_author3 <- ifelse(is.na(x$presenting_author3), '', x$presenting_author3)
 x$presenting_author4 <- ifelse(is.na(x$presenting_author4), '', x$presenting_author4)
+x$presenting_author5 <- ifelse(is.na(x$presenting_author5), '', x$presenting_author5)
 
 x$twitter <- ifelse(is.na(x$twitter), '', x$twitter)
 x$twitter2 <- ifelse(is.na(x$twitter2), '', x$twitter2)
 x$twitter3 <- ifelse(is.na(x$twitter3), '', x$twitter3)
 x$twitter4 <- ifelse(is.na(x$twitter4), '', x$twitter4)
+x$twitter5 <- ifelse(is.na(x$twitter5), '', x$twitter5)
 
 x$twitter <- sub('^@', '', x$twitter)
 x$twitter <- sub('http:.*', '', x$twitter)
@@ -51,6 +55,7 @@ x$youtube <- ifelse(is.na(x$youtube), '', x$youtube)
 x$youtube2 <- ifelse(is.na(x$youtube2), '', x$youtube2)
 x$youtube3 <- ifelse(is.na(x$youtube3), '', x$youtube3)
 x$youtube4 <- ifelse(is.na(x$youtube4), '', x$youtube4)
+x$youtube5 <- ifelse(is.na(x$youtube5), '', x$youtube5)
 
 schedule <- x
 
