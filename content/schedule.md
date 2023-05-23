@@ -3,7 +3,6 @@ title = "Schedule"
 description = "Schedule"
 +++
 
-### Coming soon
 
 {{< schedule date="Wednesday, July 27, 2022" day="day1">}}
 {{< schedule date="Thursday, July 28, 2022" day="day2">}}
