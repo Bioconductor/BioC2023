@@ -48,8 +48,8 @@ x$twitter3 <- ifelse(is.na(x$twitter3), '', x$twitter3)
 x$twitter4 <- ifelse(is.na(x$twitter4), '', x$twitter4)
 x$twitter5 <- ifelse(is.na(x$twitter5), '', x$twitter5)
 
-x$twitter <- sub('^@', '', x$twitter)
-x$twitter <- sub('http:.*', '', x$twitter)
+#x$twitter <- sub('^@', '', x$twitter)
+#x$twitter <- sub('http:.*', '', x$twitter)
 
 x$youtube <- ifelse(is.na(x$youtube), '', x$youtube)
 x$youtube2 <- ifelse(is.na(x$youtube2), '', x$youtube2)
