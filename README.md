@@ -13,15 +13,25 @@ Run Hugo to preview the webpage locally.
 rm -rf public; hugo --verbose; hugo server --disableFastRender --verbose
 ```
 
-# Adding items to the schedule table
+# Schedule generation
 
-1. Make changes in the "schedule table" spreadsheet https://docs.google.com/spreadsheets/d/1tGtGffcbCRxQFjE3ej42IcWlN4FJCsuQeZvETt9g0oA/edit#gid=0. NOTE - For the "time" column, set the format to custom "hh:mm" (IMPORTANT)
-2. Run the following command in the terminal in the base directory:
+- Prepare the [schedule table spreadsheet](https://docs.google.com/spreadsheets/d/1tGtGffcbCRxQFjE3ej42IcWlN4FJCsuQeZvETt9g0oA/edit#gid=0) by copying information from the [tentative schedule](https://docs.google.com/spreadsheets/d/1AzVXX7EcCFtMcmbHv0-uywxPhWhQ_cmE3qZ8obAnw4M/edit#gid=243910517) and the [Openreview reviews](https://docs.google.com/spreadsheets/d/1CumaWFvf0cEBuXfkPR0h6PZRkAg1HHyXxfe_9UC9sCA/edit#gid=0) spreadsheet.
+    - Each line describes either single event (Keynote, workshop, etc.) or multiple events (Short talks track).
+        - Data for multiple event entries is stored at the end of the spreadsheet (Note: the format may change, [Issue 17](https://github.com/Bioconductor/BioC2023/issues/17))
+    - For the "time" column, set the format to custom "hh:mm" (IMPORTANT)
+    - Avoid using special characters, especially, "/"
+
+- Check [1_create_yaml.R](https://github.com/Bioconductor/BioC2023/blob/179d85cdf70bca765746af736cb6b6ea07b1635d/1_create_yaml.R#L13) for the correct `sheet=XYZ` sheet from he [schedule table spreadsheet](https://docs.google.com/spreadsheets/d/1tGtGffcbCRxQFjE3ej42IcWlN4FJCsuQeZvETt9g0oA/edit#gid=0)
+
+- Run the following command in the terminal in the base directory:
+
 ```bash
 Rscript --vanilla 1_create_yaml.R; bash 2_create_abstracts.sh; bash 3_create_tracks.sh
 ```
 
-### Adding data for the schedule
+### Manually adding data for the schedule
+
+- Note: not needed if the schedule was automatically generated from the [schedule table spreadsheet](https://docs.google.com/spreadsheets/d/1tGtGffcbCRxQFjE3ej42IcWlN4FJCsuQeZvETt9g0oA/edit#gid=0) using the steps above.
 
 + Data for the abstracts and other elements for the schedule table should be located in `data/abstracts/`. This folder is populated by `1_create_yaml.R` from the "schedule table" spreadsheet.
 
@@ -83,7 +93,7 @@ YAML files for each speaker. Processed by [layouts/partials/speakers.html](layou
 
 # Disclaimer
 
-This template was created using the modified.
+This template was created using the modified 
 [hugo-universal-theme](https://github.com/devcows/hugo-universal-theme).
 See the [demo web site](https://themes.gohugo.io/theme/hugo-universal-theme/),
 the original [github repository](https://github.com/devcows/hugo-universal-theme)
