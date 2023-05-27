@@ -21,7 +21,7 @@ rm -rf public; hugo --verbose; hugo server --disableFastRender --verbose
     - For the "time" column, set the format to custom "hh:mm" (IMPORTANT)
     - Avoid using special characters, especially, "/"
 
-- Check [1_create_yaml.R](https://github.com/Bioconductor/BioC2023/blob/179d85cdf70bca765746af736cb6b6ea07b1635d/1_create_yaml.R#L13) for the correct `sheet=XYZ` sheet from he [schedule table spreadsheet](https://docs.google.com/spreadsheets/d/1tGtGffcbCRxQFjE3ej42IcWlN4FJCsuQeZvETt9g0oA/edit#gid=0)
+- Check [1_create_yaml.R](https://github.com/Bioconductor/BioC2023/blob/179d85cdf70bca765746af736cb6b6ea07b1635d/1_create_yaml.R#L13) for the correct `sheet=XYZ` sheet from the [schedule table spreadsheet](https://docs.google.com/spreadsheets/d/1tGtGffcbCRxQFjE3ej42IcWlN4FJCsuQeZvETt9g0oA/edit#gid=0)
 
 - Run the following command in the terminal in the base directory:
 
