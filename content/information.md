@@ -26,7 +26,17 @@ Worcester Regional Airport (54 miles, accessible to Boston via commuter rail)
 
 ### Ground transportation
 
-From Logan: $30-50 rideshare/cab from airport to venue or local hotel; bus and subway are available. 
+Service from Boston Logan: Board a FREE Massport shuttle bus (Route 22, 33 or 55) at any airline Terminal to the Blue Line Airport Station. The Blue Line will connect you to the Green Line at Government Center. Transfer to the Green line and take either the D or E line. 
+
+Station stop on D line: Longwood  
+Station stop on E line: Longwood Medical Area  
+
+The Dana-Farber Cancer Institute is about 2 blocks from either station stop. 
+
+You can pay cash on the buses and subway or purchase a CharlieTicket at subway stations. The subway is $2.40 each ride. 
+
+Rideshare/cabs from airport to venue or local hotel are available, $30-50.
+
 
 <!-- https://docs.google.com/document/d/1NqZI1mIwtC8-dI1jtKuLsu7NLjWyhIjTcyTpCp2GpVM/edit -->
 
