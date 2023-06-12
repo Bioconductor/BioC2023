@@ -5,7 +5,7 @@ session_type: "Short talks track"
 authors: ""
 affiliation: ""
 abstract: ""
-time: "10:30"
+time: "11:00"
 talks: ["paper83","paper33","paper50","paper10"]
 github: ""
 presenting_author: "Alexandru Mahmoud"

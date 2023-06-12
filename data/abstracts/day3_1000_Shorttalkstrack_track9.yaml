@@ -5,7 +5,7 @@ session_type: "Short talks track"
 authors: ""
 affiliation: ""
 abstract: ""
-time: "09:30"
+time: "10:00"
 talks: ["paper22","paper13","paper62","paper60"]
 github: ""
 presenting_author: "Mengbo Li"
