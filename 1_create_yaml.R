@@ -23,7 +23,8 @@ select_cols <- c(
     'presenting_author', 'presenting_author2', 'presenting_author3', 'presenting_author4', 'presenting_author5',
     'twitter', 'twitter2', 'twitter3', 'twitter4', 'twitter5',
     'youtube', 'youtube2', 'youtube3', 'youtube4', 'youtube5',
-    'details'
+    'details',
+    'level', 'orchestra'
 )
 x <- schedule[, select_cols, drop = FALSE]
 #x$presenting_author <- sub(',.*$', '', x$authors)
