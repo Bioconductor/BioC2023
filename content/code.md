@@ -69,7 +69,7 @@ We can't follow up an anonymous report with you directly, but we will fully inve
 
 #### Personal Report
 
-You can make a personal report with any of the conference anti-harassment committee: Aedin Culhane, Levi Waldron, and Laurent Gatto.
+You can make a personal report with any of the conference anti-harassment committee: Aedin Culhane, Levi Waldron, Laurent Gatto, Michael Love, and Sowmya Parthiban.
 
 When taking a personal report, our staff will ensure you are safe and cannot be overheard. They may involve other event staff to ensure your report is managed properly. Once safe, we'll ask you to tell us about what happened. This can be upsetting, but we'll handle it as respectfully as possible, and you can bring someone to support you. You won't be asked to confront anyone, and we won't tell anyone who you are. 
 
@@ -88,7 +88,7 @@ For Code of Conduct in other languages, see [bioc_coc_multilingual](https://kevi
 
 ### Code of Conduct Bioconductor Conference Committee
 
-|       |   |     |   |      |
-|:-----:|---|:---:|---|:----:|
-| ![](../img/organizers/Aedin.jpg) | &nbsp; | ![](../img/organizers/LeviWaldron.jpg) | &nbsp; | ![](../img/organizers/LaurentGatto.png) |
-| [Aedin Culhane](mailto:aedin@jimmy.harvard.edu?subject=BioC%20code-of-conduct) | &nbsp;  | [Levi Waldron](mailto:lwaldron.research@gmail.com?subject=BioC%20Code-of-conduct) | &nbsp; | [Laurent Gatto](mailto:laurent.gatto@uclouvain.be?subject=BioC%20Code-of-conduct) |
+|       |   |     |   |      |   |      |   |      |
+|:-----:|---|:---:|---|:----:|---|:----:|---|:----:|
+| ![](../img/organizers/Aedin.jpg) | &nbsp; | ![](../img/organizers/LeviWaldron.jpg) | &nbsp; | ![](../img/organizers/LaurentGatto.png) | &nbsp; | ![](../img/organizers/MichaelLove.png) | &nbsp; | ![](../img/organizers/SowmyaParthiban.png) |
+| [Aedin Culhane](mailto:aedin@jimmy.harvard.edu?subject=BioC%20code-of-conduct) | &nbsp;  | [Levi Waldron](mailto:lwaldron.research@gmail.com?subject=BioC%20Code-of-conduct) | &nbsp; | [Laurent Gatto](mailto:laurent.gatto@uclouvain.be?subject=BioC%20Code-of-conduct) | &nbsp; | [Michael Love](mailto:michaelisaiahlove@gmail.com?subject=BioC%20Code-of-conduct) | &nbsp; | [Sowmya Parthiban](mailto:sowmyaparthiban@gmail.com?subject=BioC%20Code-of-conduct) |
