@@ -1,5 +1,5 @@
 ---
-title: "Tidy genomic and transcriptomic analyses"
+title: "Tidy genomic and transcriptomic single-cell analyses"
 tags: ["Package demo"]
 type: "blog"
 draft: false
