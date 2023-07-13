@@ -26,7 +26,7 @@ Courtyard by Marriott Boston Brookline $$
 Residence Inn by Marriott Fenway $$$  
 The Verb Hotel $$$  
 
-### Airports
+### Ground transportation
 
 Service from Boston Logan: Board a FREE Massport shuttle bus (Route 22, 33 or 55) at any airline Terminal to the Blue Line Airport Station. The Blue Line will connect you to the Green Line at Government Center. Transfer to the Green line and take either the D or E line.
 
