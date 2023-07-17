@@ -9,7 +9,7 @@ description = "Registration"
 
 **[Register here](https://hopin.com/events/bioc2023)**, or copy-paste this link in your web browser, https://hopin.com/events/bioc2023. 
 
-**[Scholarship information](#scholarship)**
+<!--**[Scholarship information](#scholarship)**-->
 
 The conference will be held at the Dana-Farber Cancer Institute in Boston, MA from August 2nd through August 4th. The conference will be hybrid so you can attend in-person or virtually.
 
@@ -44,6 +44,8 @@ Tickets are refundable with 10% service fee. The deadline for in-person ticket r
 
 ### Scholarship
 
+Scholarship application is now closed.
+<!--
 **We remain committed to providing as much assistance as we can to keep registration fees from being a barrier to conference attendance. If you require scholarship assistance to attend the conference, please complete [this form](https://app.smartsheet.com/b/form/442ae4826a7f42338831c1e7f24f1a32).**
 
 - Scholarships for in-person attendance will close on May 31st and notifications will go out in early June.
@@ -60,6 +62,7 @@ Current students and trainees. Priority is given to those who:
 #### What is included in the scholarship?
 
 Conference registration, student housing accommodation for the travel dates (max of 4 nights) and up to a $1000 USD stipend for travel costs (domestic) and $1500 (international).
+-->
 
 
 <!--
