@@ -3,7 +3,7 @@ title = "Registration"
 description = "Registration"
 +++
 
-### Registration is open
+### Registration for the virtual BioC2023 is open
 
 <!-- https://docs.google.com/document/d/1KtlgpudVJYaE_M7mDHZJc1CDwywnvRYKhhYUD5vt8fE/edit -->
 
@@ -20,15 +20,15 @@ We are  pleased to announce there there will be a two-day pre-conference worksho
 In Person Registration:
 
 - Early registration (through May 31, 2023): 
-- In-Person Student or Postdoc, $175
-- In-Person Faculty, Staff and Government, $300
-- In-Person Industry, $500 
+- ~~In-Person Student or Postdoc, $175~~
+- ~~In-Person Faculty, Staff and Government, $300~~
+- ~~In-Person Industry, $500~~ 
 
 Registration (June 1-July 19, 2023)
 
-- In-Person Student or Postdoc, $250
-- In-Person Faculty, Staff and Government, $400
-- In-Person Industry, $600
+- ~~In-Person Student or Postdoc, $250~~
+- ~~In-Person Faculty, Staff and Government, $400~~
+- ~~In-Person Industry, $600~~
 
 Virtual registration:
 
