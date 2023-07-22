@@ -19,7 +19,8 @@ rm -rf public; hugo --verbose; hugo server --disableFastRender --verbose
     - Each line describes either single event (Keynote, workshop, etc.) or multiple events (Short talks track).
         - Data for multiple event entries is stored at the end of the spreadsheet (Note: the format may change, [Issue 17](https://github.com/Bioconductor/BioC2023/issues/17))
     - For the "time" column, set the format to custom "hh:mm" (IMPORTANT)
-    - Avoid using special characters, especially, "/"
+    - Avoid using special characters, especially, "/".
+    - If quotes need to be used, use single quotes.
 
 - Check [1_create_yaml.R](https://github.com/Bioconductor/BioC2023/blob/179d85cdf70bca765746af736cb6b6ea07b1635d/1_create_yaml.R#L13) for the correct `sheet=XYZ` sheet from the [schedule table spreadsheet](https://docs.google.com/spreadsheets/d/1tGtGffcbCRxQFjE3ej42IcWlN4FJCsuQeZvETt9g0oA/edit#gid=0)
 
@@ -45,25 +46,31 @@ Abstract file name format: day[1-3]_HHMM_type_paper/track#.yaml.
 The abstracts should all contain these fields. If any field isn't used, it should remain blank. 
 
 ```
+day: "" # Day of a conference, 'day1', 'day2' etc. format
 title: "" # A string with the full title.
-paper: "" # Number of paper or track. Valid options: paper# or track#. For example, paper2, track1, etc. track is only used for the short talks tracks. There is no defined track number as in the case of the papers, they should be added in order of appearance in the document.
-session_type: "" # String with the type. Valid options: "Short talk", "Short talks track", "Package demo", "Workshop".
+paper: "" # Number of paper or track. Valid options: paper# or track#. For example, paper2, track1, etc. track is only used for the short talks tracks. If 'track#', then the 'talks:' field should list the associated papers, e.g., ["paper34","paper78","paper45","paper37","paper8"]
+session_type: "" # String with the session type, e.g., "Short talk", "Short talks track", "Package demo", "Workshop".
 authors: "" # String with the authors separated by comma.
 presenting_author: "" # Author who will present. The first author by default.
 affiliation: "" # String with the affiliation.
 abstract: "" # String with the abstract. Sometimes there are quotes in the text which should be escaped.
 time: "" # The time in 24h format. Example: 1300 for 1 PM.
-github: "" # Haven't used this field. Not sure if this has been provided.
-twitter: "" # Twitter handle without the @.
-youtube: "" # Link to youtube video when available.
-day: "" # Valid options: day1, day2, day3.
 talks: "" # This field is only for the short talk tracks. This should list the number of papers under this track. This should be a YAML array. Example: ["paper10", "paper20"]
+github: "" # Link to the associated dode repository
+presenting_author: "" # Presenting author. If multiple, as for the track sessions, additional 'presenting_author#' fields should be filled.
+twitter: "" # A full url to twitter or other social media platform. If multiple, as for the track sessions, additional 'twitter#' fields should be filled.
+youtube: "" # Link to youtube video when available. If multiple, as for the track sessions, additional 'youtube#' fields should be filled.
+details: "" # Currently not used
+level: "" # Valid only for workshops and package demos. Can be 'Beginner', 'Intermediate', 'Advanced'
+orchestra: "" # Should be 'yes' for workshops and package demos
 ```
 
 + The `content/abstracts/` directory contains the individual pages for the
 abstracts. This directory could be ignored as it will be updated with
 the `2_create_abstracts.sh` and `3_create_tracks.sh` bash scripts. These scripts
 convert the elements in data to content pages.
+
+- Workshops and package demo yaml files will be processed by [workshops.md](content/workshops.md) to create the "WORKSHOPS & DEMOS" page.
 
 ======
 
