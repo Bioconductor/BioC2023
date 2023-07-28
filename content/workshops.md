@@ -3,13 +3,17 @@ title = "Workshops & package demos"
 description = "Workshops & package demos"
 +++
 
-## 0n orchestra
+## 0n the Bioconductor Workshop Galaxy
 
-1. Go to <a href="http://app.orchestra.cancerdatasci.org" target="_blank" >Orchestra</a>.
-2. Log in.
-3. Search for the workshop of interest.
-4. Click "Launch" (may take a minute or two).
-5. Follow instructions.
+
+1. Read <a href="https://workshop.bioconductor.org/static/welcome.html" target="_blank" >the following instructions</a>.
+2. Go to <a href="https://workshop.bioconductor.org" target="_blank" >workshop.bioconductor.org</a>.
+3. Register/Log in.
+4. Search for the workshop of interest.
+5. Click "Launch" (may take a minute).
+6. Follow text on screen!
+
+If you have any issues with the platform during the conference, please notify us in person, on Slack, or at workshop@bioconductor.org
 
 ## All workshops and demos by level
 
