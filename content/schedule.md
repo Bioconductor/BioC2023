@@ -3,7 +3,7 @@ title = "Schedule"
 description = "Schedule"
 +++
 
-Please, see the schedule on the [Hopin platform](https://hopin.com/)
+Please, see the schedule on the [Hopin platform](https://hopin.com/events/bioc2023)
 
 <!-- [Install on the App Store](https://apps.apple.com/us/app/hopin/id1450000000)
 [Install on Google Play](https://play.google.com/store/apps/details?id=com.hopin.app)
