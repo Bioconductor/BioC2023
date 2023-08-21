@@ -3,16 +3,15 @@ title = "Schedule"
 description = "Schedule"
 +++
 
-Please, see the schedule on the [Hopin platform](https://hopin.com/events/bioc2023)
+Please, see the schedule and the recordings of all sessions on the [Hopin platform](https://hopin.com/events/bioc2023)
 
 <!-- [Install on the App Store](https://apps.apple.com/us/app/hopin/id1450000000)
 [Install on Google Play](https://play.google.com/store/apps/details?id=com.hopin.app)
  -->
-<!--
+
 {{< schedule date="Wednesday, August 2, 2023" day="day1">}}
 {{< schedule date="Thursday, August 3, 2023" day="day2">}}
 {{< schedule date="Friday, August 4, 2023" day="day3">}}
--->
 
 <!--
 + [All short talks](../tags/short-talk/)

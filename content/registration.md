@@ -3,7 +3,7 @@ title = "Registration"
 description = "Registration"
 +++
 
-### Registration for the virtual BioC2023 is open
+### Registration for the virtual BioC2023 is now closed
 
 <!-- https://docs.google.com/document/d/1KtlgpudVJYaE_M7mDHZJc1CDwywnvRYKhhYUD5vt8fE/edit -->
 
@@ -11,7 +11,7 @@ description = "Registration"
 
 <!--**[Scholarship information](#scholarship)**-->
 
-The conference will be held at the Dana-Farber Cancer Institute in Boston, MA from August 2nd through August 4th. The conference will be hybrid so you can attend in-person or virtually.
+The conference was held at the Dana-Farber Cancer Institute in Boston, MA from August 2nd through August 4th. The conference was hybrid so you can attend in-person or virtually.
 
 We are  pleased to announce there there will be a two-day pre-conference workshop on RNA-seq analysis with Bioconductor. Are you ready to dive into the world of RNA-seq data analysis and elevate your research to new heights? Do you want to master the essential tools and techniques to make sense of your gene expression data? More information and the application link are available at https://bioconductor.github.io/2023-07-31-BiocRnaseq-Bioc2023/
 
